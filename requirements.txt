@@ -1,0 +1,13 @@
+numpy==1.14.5
+numpydoc==0.8.0
+pandas==0.23.0
+scikit-image==0.13.1
+scikit-learn==0.19.1
+scipy==1.1.0
+tensorboard==1.8.0
+tensorflow==1.8.0
+Keras==2.2.0
+Keras-Applications==1.0.2
+Keras-Preprocessing==1.0.1
+seaborn==0.8.1
+
